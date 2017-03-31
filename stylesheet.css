@@ -10,8 +10,9 @@
 	}
 	
 	.projecten img {
-		width: 300;
-		height: auto
+		width: 150px;
+		height: auto;
+		border: 3px solid black;
 	}
 	
 	nav {
