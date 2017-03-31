@@ -9,6 +9,11 @@
 		border: 3px solid black;
 	}
 	
+	.projecten img {
+		width: 300;
+		height: auto
+	}
+	
 	nav {
 		margin: 0 auto;
 		padding: 0;
