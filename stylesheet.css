@@ -120,6 +120,10 @@
 		float: right;
 		height: 450px;
 		margin-top: 50px;
+		text-align: center;
+	}
+	.pdfblok img{
+		vertical-align: middle;
 	}
 	
 	.groepblok {
@@ -130,6 +134,7 @@
 		float: right;
 		height: 450px;
 		margin-top: 70px;
+		text-align: center;
 	}
 	.week1 {
 		display: block;
