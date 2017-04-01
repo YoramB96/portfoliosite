@@ -21,6 +21,18 @@
 		width: 100%;
 		height: 90px;
 		margin-top: 20px;
+		position: relative ;
+		top: 0px;
+		left: 0px;
+		right:0px;
+	}
+	
+	header {
+		position: fixed;
+		top:0px;
+		left:0px;
+		right:0px;
+		margin-top:0px;
 	}
 	
 
@@ -182,7 +194,19 @@
 	}
 	
 	.footer {
+		display: block;
 		width: 100%;
-		height: 30px;
-		background-color: solid grey;
+		height: 25px;
+		text-align: center;
+		border: 3px solid black;
+		position: fixed;
+		bottom:0px;
+		left:0px;
+		right:0px;
+		margin-bottom:0px;
+		background: black;
+	}
+	
+	copyright {
+		color:white;
 	}
