@@ -148,6 +148,17 @@
 		padding: 10px;
 		float: left;
 	}
+	
+	#EYEnddiv {
+		display: block;
+		margin: auto;
+		margin-top: 50px;
+		margin-left: 25px;
+		width: 95%;
+		border: 3px solid green;
+		padding: 10px;
+		float: left;
+	}
 		
 	h1{
 		text-align: center;
