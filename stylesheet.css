@@ -23,6 +23,7 @@
 		margin-top: 20px;
 	}
 	
+
 	.projecten img {
 		width: 30%;
 		height: auto;
@@ -150,6 +151,8 @@
 		
 	h1{
 		text-align: center;
+		color: white;
+		margin-top: 25px;
 	}
 	
 	h2{
