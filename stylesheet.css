@@ -14,11 +14,9 @@
 	
 	#topfoto {
 		width: 100%;
+		display: block;
 		height: 90px;
-		margin-top: 0px;
-		top: 0px;
-		left: 0px;
-		right:0px;
+		margin: auto;
 	}
 
 	#mugshot {
@@ -48,9 +46,9 @@
 	
 	nav {
 		margin: 0 auto;
-		padding: 0;
+		padding: 0px;
 		background-color: #333333;
-		border: 3px solid green;
+		border: 0px solid black;
 	}
 	
 	ul {
@@ -223,7 +221,7 @@
 	
 	h2 {
 		text-align: center;
-		margin-top: 220px;
+		margin-top: 170px;
 	}
 	
 	p {
