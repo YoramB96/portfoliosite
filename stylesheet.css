@@ -122,6 +122,8 @@
 		height: 450px;
 		margin-top: 50px;
 		text-align: center;
+		padding-top: 100px;
+
 	}
 	.pdfblok img{
 		vertical-align: middle;
@@ -136,6 +138,7 @@
 		height: 450px;
 		margin-top: 70px;
 		text-align: center;
+		padding-top: 70px;
 	}
 	.week1 {
 		display: block;
@@ -145,6 +148,7 @@
 		border: 3px solid green;
 		float: left;
 		height: 450px;
+		padding: 20px;
 	}
 	
 	
@@ -156,6 +160,7 @@
 		float: left;
 		height:450px;
 		margin-top: 50px;
+		padding: 20px;
 	}
 	
 	.week3 {
@@ -217,7 +222,7 @@
 		margin-top: 25px;
 	}
 	
-	.introtop h2{
+	.introtop {
 		text-align: center;
 		margin-top: 100px;
 	}
