@@ -15,7 +15,7 @@
 	#topfoto {
 		width: 100%;
 		display: block;
-		height: 90px;
+		height: 80px;
 		margin: auto;
 	}
 
@@ -231,7 +231,7 @@
 	.footer {
 		display: block;
 		width: 100%;
-		height: 25px;
+		height: 15px;
 		text-align: center;
 		border: 3px solid black;
 		position: fixed;
@@ -244,5 +244,6 @@
 	}
 	
 	copyright {
-		color:white;
+		color: white;
+		font-size: 14px;
 	}
