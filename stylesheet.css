@@ -33,7 +33,9 @@
 	
 
 	.projecten img {
-		width: 30%;
+        margin-top: 45%;
+        float: center;
+        width: 30%;
 		height: auto;
 		border: 3px solid black;
 	}
