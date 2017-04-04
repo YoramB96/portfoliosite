@@ -194,8 +194,8 @@
 	#EYEnddiv {
 		display: block;
 		margin-top: 50px;
-		margin-left: 0px;
-		width: 45%;
+		margin-bottom: 50px;
+		max-width: 45%;
 		height: 250px;
 		border: 3px solid green;
 		padding: 10px;
@@ -205,12 +205,12 @@
 	#EYElink {
 		display: block;
 		border:3px solid red;
-		margin-right: 50px;
-		margin-top: 0px;
-		width: 45%;
-		height: 300px;
-		float: right;
 		margin-top: 50px;
+		margin-bottom: 50px;
+		width: 45%;
+        max-width: 45%;
+		height: 250px;
+		float: right;
 	}
 		
 	h1{
