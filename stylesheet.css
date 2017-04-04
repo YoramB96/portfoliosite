@@ -136,7 +136,8 @@
 		margin-top: 50px;
 		text-align: center;
 	}
-	.week {
+	
+.week {
 		display: block;
 		margin-top: 0;
 		margin-bottom: 50px;
@@ -146,48 +147,13 @@
 		float: left;
 		height: 450px;
 }
-	
-	
-	.week2 {
-		display: block;
-		margin-left: 0px;
-		width: 45%;
-		border: 3px solid green;
-		float: left;
-		height: 450px;
-		margin-top: 50px;
-		padding: 20px;
-	}
-	
-	.week3 {
-		display: block;
-		margin: auto;
-		width: 45%;
-		border: 3px solid green;
-		float: left;
-		height:450px;
-		margin-top: 50px;
-	}
-	
-	.week4 {
-		display: block;
-		margin: auto;
-		width: 45%;
-		border: 3px solid green;
-		float: left;
-		height:450px;
-		margin-top: 50px;
-	}
-	
+
 	.EYEndproject {
-		margin: auto;
+		 margin: auto;
 		width: 80%;
-		display: block;
-		margin-top: 50px;
-		margin-left: 25px;
 		border: 3px solid green;
-		padding: 10px;
-		float: center;
+		height: 1700px;
+		margin-top: 100px;
 	}
 	
 	#EYEnddiv {
