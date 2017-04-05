@@ -7,7 +7,7 @@
 		height: 100%;
 		margin: auto;
 		margin-top: 30px;
-		border: 6px solid blue;
+		border: 7px solid blue;
         border-style: double;
 		padding: 20px;
 	}
@@ -79,7 +79,6 @@
 	.topnav a {
 		display: block;
 		color: white;
-        border-style: double;
 		border: 3px solid blue;
 		text-align: center;
 		padding: 14px 16px;
@@ -139,7 +138,8 @@
 		margin-bottom: 50px;
         margin-top: 50px;
 		width: 45%;
-		border: 3px solid green;
+        border-style: hidden;
+		border: 3px solid;
 		float: left;
 		height: 450px;
 }
@@ -147,8 +147,8 @@
 	    margin: auto;
 		width: 80%;
 		border: 3px;
-		height: 5000px;
-		margin-top: 100px;
+		height: 4000px;
+		margin-top: 20px;
 	}
 
 	.EYEndproject {
@@ -156,7 +156,7 @@
 		width: 80%;
 		border: 3px ;
 		height: 1700px;
-		margin-top: 100px;
+		margin-top: 0px;
 	}
 	
 	#EYEnddiv {
