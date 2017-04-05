@@ -1,4 +1,7 @@
-	#menu {
+    body {
+        background-color: #EAF3EF;
+    }
+    #menu {
 		text-align: center;
 	}
 	
@@ -188,6 +191,7 @@
         margin-left: 41%;
         margin-right: 45%;
         border-radius: 47%;
+        border: 3px solid blue;
     }
 
 	
@@ -227,20 +231,26 @@
 		
 	h1{
 		text-align: center;
-		color: white;
-		margin-top: 25px;
-
+		color: black;
+		margin-top: 170px;
+        font-size: 3em;
+        font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+        font-weight: 500;
+        
 	}
 	
 	h2 {
 		text-align: center;
-		margin-top: 170px;
-        font-style: 
-        font-family: "Georgia", Georgia, serif;
+		margin-top: 30px;
+        font-size: 2em;
+        font-weight: 100;
+        font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	}
 	
 	p {
-		font-size: 15px;
+		font-size: 1em;
+        font-style: normal;
+        font-family: "Georgia", Georgia, serif; 
 	}
 	
 	.footer {
