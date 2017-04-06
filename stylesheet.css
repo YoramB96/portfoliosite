@@ -1,3 +1,5 @@
+    /*all default codes from https://www.w3schools.com/ */
+
     body {
         background-color: #EAF3EF;
     }
@@ -37,7 +39,7 @@
 		margin-top: 0px;
 	}
 	
-/* box-shadow from https://www.w3schools.com/css/tryit.asp?filename=trycss3_box-shadow5 */
+/* box-shadow for all images in this doc from https://www.w3schools.com/css/tryit.asp?filename=trycss3_box-shadow5 */
 	.projecten img {
         margin-top: 80px;
         margin-bottom: 100px;
@@ -47,17 +49,20 @@
 		border: 3px solid black;
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	}
-    
+  
     .projecten img:hover {
         opacity: 0.5;
         filter: alpha(opacity=50);
     }
+/* box-shadow for only the navigation bar is http://stackoverflow.com/questions/14904731/add-a-drop-shadow-to-a-top-fixed-nav-bar-using-bootstrap*/
 
 	nav {
 		margin: 0 auto;
 		padding: 0px;
 		background-color: #333333;
 		border: 0px solid black;
+        box-shadow: 0 8px 6px -6px #999;
+        
 	}
 	
 	ul {
