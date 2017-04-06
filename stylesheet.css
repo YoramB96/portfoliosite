@@ -6,6 +6,12 @@
     #menu {
 		text-align: center;
 	}
+
+    hr {
+        width: 70%;
+        border-top: 5px solid black;
+        border-bottom: 0px solid #fff;
+    }
 	
 	#introtext {
 		width: 60%;
@@ -13,7 +19,7 @@
 		margin: auto;
 		margin-top: 30px;
         margin-bottom: 50px;
-		border: 7px solid blue;
+		border: 7px solid #3e5b5b;
         border-style: double;
 		padding: 20px;
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -72,8 +78,7 @@
 		list-style-type: none;
 		background-color: #333333;
 		overflow: hidden;
-		border: 3px solid blue;
-	}
+		}
 	
 	.topnav li {
 		background-color:#333333;
@@ -89,7 +94,6 @@
 	.topnav a {
 		display: block;
 		color: white;
-		border: 3px solid blue;
 		text-align: center;
 		padding: 14px 16px;
 		text-decoration: none;
@@ -108,7 +112,7 @@
 	
 	.groepblok {
 		display: block;
-		border:3px solid blue;
+		border:3px solid #EAF3EF;
 		margin-top: 50px;
         margin-bottom: 50px;
 		max-width: 45%;
@@ -118,17 +122,6 @@
 		text-align: center;
 	}
 
-	.groepsum {
-		display: block;
-		margin-top: 50px;
-		margin-bottom: 50px;
-		max-width: 45%;
-		height: 450px;
-        max-height: 560px;
-		border: 3px solid green;
-		float: left;
-	}
-	
     .week {
 		display: block;
 		margin-top: 0;
@@ -143,7 +136,7 @@
     }
 	.pdfblok {
 		display: block;
-		border: 3px solid blue;
+		border: 3px solid #EAF3EF;
 		margin-top: 50px;
         margin-bottom: 50px;
 		max-width: 45%;
@@ -156,16 +149,16 @@
 	    margin: auto;
 		width: 80%;
 		border: 3px;
-		height: 4500px;
+		height: 5200px;
 		margin-top: 20px;
 	}
 
 	.EYEndproject {
         margin: auto;
 		width: 80%;
-		border: 3px ;
-		height: 2500px;
-		margin-top: 0px;
+		border: 3px;
+		height: 1500px;
+		margin-top: 50px;
 	}
     	
 	#EYEnddiv {
@@ -236,7 +229,7 @@
         margin: auto;
         float: center;
         border: 3px solid #EAF3EF;
-        margin-top: 100px;
+        margin-top: 50px;
         margin-bottom: 100px;
         width: 80%;
         height: 1000px;
